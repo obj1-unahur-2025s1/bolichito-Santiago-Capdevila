@@ -54,7 +54,7 @@ object munieco {
 }
 
 object placa {
-  var peso = 0
+  var peso = 100
   var color = rojo
 
   method peso(unPeso){
